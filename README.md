@@ -34,7 +34,7 @@ The goal of the Pushswap project is to sort a list of integers using a stack-bas
 ### Steps to Install and Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pushswap.git
+   git clone https://github.com/haghouli/push_swap.git
    cd pushswap
    make
    ./pushswap 3 2 5 1 4
