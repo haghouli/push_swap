@@ -36,3 +36,5 @@ The goal of the Pushswap project is to sort a list of integers using a stack-bas
    ```bash
    git clone https://github.com/yourusername/pushswap.git
    cd pushswap
+   make
+   ./pushswap 3 2 5 1 4
